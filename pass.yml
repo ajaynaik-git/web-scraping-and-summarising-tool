@@ -1,0 +1,4 @@
+# config.yaml file
+api: "paste your openai api key"
+
+# note- go to openai.com for getting your openai api key
